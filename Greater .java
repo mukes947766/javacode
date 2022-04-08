@@ -3,9 +3,9 @@ public class Greater{
 public static void main(String [] args){
 
 Scanner input=new Scanner(System.in);
- System.out.println("enter the value of a");
-  System.out.println("enter the value of b");
-   System.out.println("enter the value of c");
+ System.out.println("enter the values of a");
+  System.out.println("enter the values of b");
+   System.out.println("enter the values of c");
 int a = input.nextInt();
 int b=input.nextInt();
 int c=input.nextInt();
